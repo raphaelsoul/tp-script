@@ -7,7 +7,7 @@
 // @match        https://ides.nocheck.com/accountinfo.pl
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
-// @updateURL    updateURL
+// @updateURL    https://raw.githubusercontent.com/raphaelsoul/tp-script/main/replacer.js
 // ==/UserScript==
 
 (function() {
